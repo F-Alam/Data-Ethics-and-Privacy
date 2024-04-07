@@ -1,4 +1,4 @@
 # Data-Ethics-and-Privacy
 Writing on legal, policy, privacy and ethical issues concerning data collection, storage, processing, analysis. The writing are from thecourse "Behind the Data: Humans and Values} that "Examines legal, policy, and ethical issues throughout the full data-science life cycle collection, storage, processing, analysis, and use with case studies from criminal justice, national security, health, marketing, politics, education, employment, athletics, and development. Includes legal and policy constraints and considerations for specific domains and data-types, collection methods, and institutions; technical, legal, and market approaches to mitigating and managing concerns; and the strengths and benefits of competing and complementary approaches."
 
-The blog post "Valuable AI versus AI with values" is available at https://blogs.ischool.berkeley.edu/w231/2022/03/09/valuable-ai-versus-ai-with-values/ 
+The blog post "Valuable AI versus AI with values" is available at the link https://blogs.ischool.berkeley.edu/w231/2022/03/09/valuable-ai-versus-ai-with-values/ 
